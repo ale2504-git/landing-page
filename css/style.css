@@ -1,6 +1,29 @@
 /*---------Barra de Navegacion--------------*/
+.navbar{
+    padding: 1rem; ;
 
+}
 
+.btn-outline-primary {
+    color:#1abc9c;
+    border-color:#1abc9c;
+}
+
+.btn-outline-primary:hover{
+
+    color: #fff;
+    background-color: #1abc9c;
+    border-color:#1abc9c;
+}
+
+.btn-primary{
+    background-color: #1abc9c;
+    border:none;
+}
+
+.btn-primary:hover{
+    background-color: #16a085;
+}
 
 
 
